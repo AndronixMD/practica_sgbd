@@ -1,0 +1,1 @@
+CREATE DATABASE lab_2_sgdb;
