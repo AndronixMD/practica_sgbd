@@ -17,4 +17,4 @@ WHERE
 										FROM amici
 										WHERE amici.idPersoana1 = persoana.idPersoana OR amici.idPersoana2 = persoana.idPersoana
 										)
-	)
+	)	
